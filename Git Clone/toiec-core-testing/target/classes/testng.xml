@@ -1,0 +1,9 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="TestAll">
+    <test name="case1">
+        <classes>
+<!--            <class name="vn.myclass.test.Test1" />-->
+            <class name="com.truonggiang.core.testing.RoleTest"></class>
+        </classes>
+    </test>
+</suite>

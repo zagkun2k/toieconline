@@ -1,4 +1,4 @@
-com\truonggiang\core\persistence\entity\ListenGuideline.class
-com\truonggiang\core\persistence\entity\Role.class
-com\truonggiang\core\persistence\entity\User.class
-com\truonggiang\core\persistence\entity\Comment.class
+com\truonggiang\core\persistence\entity\ListenGuidelineEntity.class
+com\truonggiang\core\persistence\entity\RoleEntity.class
+com\truonggiang\core\persistence\entity\UserEntity.class
+com\truonggiang\core\persistence\entity\CommentEntity.class

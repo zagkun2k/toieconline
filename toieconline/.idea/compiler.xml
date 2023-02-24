@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <excludeFromCompile>
+      <directory url="file://$PROJECT_DIR$/toiec-core-utils/src/main/resources/archetype-resources" includeSubdirectories="true" />
+      <directory url="file://$PROJECT_DIR$/toiec-core-common/src/main/resources/archetype-resources" includeSubdirectories="true" />
+      <directory url="file://$PROJECT_DIR$/toiec-core-persistance-data/src/main/resources/archetype-resources" includeSubdirectories="true" />
+      <directory url="file://$PROJECT_DIR$/toiec-core-testing/src/main/resources/archetype-resources" includeSubdirectories="true" />
+    </excludeFromCompile>
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="toiec-core-data" />
+        <module name="toeic-core-service" />
+        <module name="toiec-core-testing" />
+        <module name="toiec-core-common" />
+        <module name="toiec-web" />
+        <module name="toiec-core-service-impl" />
+        <module name="toiec-web-logic" />
+        <module name="toeic-core-dao" />
+        <module name="toeic-core-dto" />
+        <module name="toiec-core-persistance-data" />
+        <module name="toiec-core-dao-impl" />
+        <module name="toiec-core-utils" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel target="17">
+      <module name="toeic-core-test" target="17" />
+      <module name="toiec-core-persistence-data" target="1.8" />
+      <module name="toiec-core-test" target="17" />
+      <module name="toiec-web-data" target="17" />
+      <module name="untitled" target="17" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

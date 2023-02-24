@@ -1,4 +1,4 @@
-D:\Course\TrungTamJava_SpringMVC\demoMVC\toiec-core-persistance-data\src\main\java\com\truonggiang\core\persistence\entity\Comment.java
-D:\Course\TrungTamJava_SpringMVC\demoMVC\toiec-core-persistance-data\src\main\java\com\truonggiang\core\persistence\entity\ListenGuideline.java
-D:\Course\TrungTamJava_SpringMVC\demoMVC\toiec-core-persistance-data\src\main\java\com\truonggiang\core\persistence\entity\Role.java
-D:\Course\TrungTamJava_SpringMVC\demoMVC\toiec-core-persistance-data\src\main\java\com\truonggiang\core\persistence\entity\User.java
+D:\Course\TrungTamJava_SpringMVC\demoMVC\toiec-core-persistance-data\src\main\java\com\truonggiang\core\persistence\entity\CommentEntity.java
+D:\Course\TrungTamJava_SpringMVC\demoMVC\toiec-core-persistance-data\src\main\java\com\truonggiang\core\persistence\entity\UserEntity.java
+D:\Course\TrungTamJava_SpringMVC\demoMVC\toiec-core-persistance-data\src\main\java\com\truonggiang\core\persistence\entity\RoleEntity.java
+D:\Course\TrungTamJava_SpringMVC\demoMVC\toiec-core-persistance-data\src\main\java\com\truonggiang\core\persistence\entity\ListenGuidelineEntity.java

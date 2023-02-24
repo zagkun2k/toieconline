@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/toeic-core-dao/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/toeic-core-dao/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/toeic-core-dto/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/toeic-core-dto/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/toeic-core-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/toeic-core-service/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/toeic-core-test/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/toeic-core-test/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/toiec-core-common/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/toiec-core-common/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/toiec-core-dao-impl/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/toiec-core-dao-impl/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/toiec-core-data/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/toiec-core-data/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/toiec-core-persistance-data/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/toiec-core-persistance-data/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/toiec-core-persistence/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/toiec-core-persistence/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/toiec-core-service-impl/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/toiec-core-service-impl/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/toiec-core-test/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/toiec-core-test/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/toiec-core-testing/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/toiec-core-testing/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/toiec-core-utils/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/toiec-core-utils/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/toiec-web-data/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/toiec-web-data/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/toiec-web-logic/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/toiec-web-logic/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/toiec-web/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/toiec-web/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/toiec-web/toiec-core-test/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/toiec-web/toiec-core-test/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/untitled/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/untitled/src/main/resources" charset="UTF-8" />
+  </component>
+</project>
